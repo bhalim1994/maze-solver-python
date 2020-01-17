@@ -1,4 +1,4 @@
-# MazeSolver
+# MazeSolver (Python Edition)
 
 Implementation of breadth first search algorithm to solve a maze in Python.
 
